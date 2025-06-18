@@ -17,4 +17,4 @@ A simple command-line banking system built using Python. It allows a user to:
 3. Run using:
 ```bash
 python banking.py
-![Screenshot](screenshot.png)
+
